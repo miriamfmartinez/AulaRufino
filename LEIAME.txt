@@ -1,1 +1,2 @@
-Segundo commit
+Terceiro commit
+>>>>>>> ticket0002
